@@ -16,7 +16,7 @@ Navigate the webpage to find information about Horiseon Social Solution Services
 
 The following image shows what the webpage should look like:
 
-![screenshot of horiseon webpage](develop/assets/images/screenshot1.png)
+![screenshot of horiseon webpage](Develop/assets/images/screenshot1.png)
 
 ## Credits
 
